@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: orange;
+    padding: 15px;
+}
+
+footer p{
+    background-color: gray;
+    padding: 5px;
+}
+
+body{
+    background-color: bisque;
+}
+
+a{
+    /* Rectangle 8 */
+width: 150px;
+height: 50px;
+background: #008271;
+border-radius: 20px;
+padding: 10px;
+text-decoration: none;
+color: white;
+}
